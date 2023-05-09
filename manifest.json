@@ -1,0 +1,10 @@
+{
+	"name": "Minimal Home",
+	"description": "A minimal home page for maximum productivity",
+	"version": "0.0.1",
+	"manifest_version": 3,
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": ["storage"]
+}
